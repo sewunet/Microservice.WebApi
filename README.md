@@ -6,4 +6,3 @@ We'll go through a popular way of Building Applications – Microservice Archite
 
 We will be building a Simple Microservice Application for demonstrating various Concepts including Microservice Architecture in ASP.NET Core, API Gateways, Ocelot, Ocelot Configuration , Routing and much more.
 
-Read the entire Blog Post here - https://www.codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/
